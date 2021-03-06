@@ -21,3 +21,8 @@ Includes:
 
 
 Original project website is www.intercoin.network
+
+
+Welcome to the universal currency of the people, by the people, for the people.
+
+Every human being on the planet has the right to own cryptocurrency and trade it everyday on a secure, fast, anonymous and free network, without paying absurd transaction fees.
