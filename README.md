@@ -14,7 +14,7 @@ Includes:
 - Basic token
 - Standard token
 - Smart token
-- TRC20 & TRC677
+- TRC20 & TRC677 & TRC6721
 - Ownable
 - Pausable
 - Editable file to deploy your own contract by just editing the file Nummun.sol and changing the token name, symbol and supply
